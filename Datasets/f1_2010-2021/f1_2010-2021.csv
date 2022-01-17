@@ -1,0 +1,282 @@
+level_0,index,team,code,name,surname,laps,time,grand_prix,date
+0,A,Ferrari,ALO,Fernando,Alonso,49,1:39:20.396,                         Bahrain                     ,14 Mar 2010
+1,B,McLaren Mercedes,BUT,Jenson,Button,58,1:33:36.531,                         Australia                     ,28 Mar 2010
+2,C,RBR Renault,VET,Sebastian,Vettel,56,1:33:48.412,                         Malaysia                     ,04 Apr 2010
+3,D,McLaren Mercedes,BUT,Jenson,Button,56,1:46:42.163,                         China                     ,18 Apr 2010
+4,E,RBR Renault,WEB,Mark,Webber,66,1:35:44.101,                         Spain                     ,09 May 2010
+5,F,RBR Renault,WEB,Mark,Webber,78,1:50:13.355,                         Monaco                     ,16 May 2010
+6,G,McLaren Mercedes,HAM,Lewis,Hamilton,58,1:28:47.620,                         Turkey                     ,30 May 2010
+7,H,McLaren Mercedes,HAM,Lewis,Hamilton,70,1:33:53.456,                         Canada                     ,13 Jun 2010
+8,J,RBR Renault,VET,Sebastian,Vettel,57,1:40:29.571,                         Europe                     ,27 Jun 2010
+9,K,RBR Renault,WEB,Mark,Webber,52,1:24:38.200,                         Great Britain                     ,11 Jul 2010
+10,L,Ferrari,ALO,Fernando,Alonso,67,1:27:38.864,                         Germany                     ,25 Jul 2010
+11,I,RBR Renault,WEB,Mark,Webber,70,1:41:05.571,                         Hungary                     ,01 Aug 2010
+12,M,McLaren Mercedes,HAM,Lewis,Hamilton,44,1:29:04.268,                         Belgium                     ,29 Aug 2010
+13,P,Ferrari,ALO,Fernando,Alonso,53,1:16:24.572,                         Italy                     ,12 Sep 2010
+14,R,Ferrari,ALO,Fernando,Alonso,61,1:57:53.579,                         Singapore                     ,26 Sep 2010
+15,S,RBR Renault,VET,Sebastian,Vettel,53,1:30:27.323,                         Japan                     ,10 Oct 2010
+16,V,Ferrari,ALO,Fernando,Alonso,55,2:48:20.810,                         South Korea                     ,24 Oct 2010
+17,X,RBR Renault,VET,Sebastian,Vettel,71,1:33:11.803,                         Brazil                     ,07 Nov 2010
+18,Q,RBR Renault,VET,Sebastian,Vettel,55,1:39:36.837,                         Abu Dhabi                     ,14 Nov 2010
+0,A,Red Bull Racing Renault,VET,Sebastian,Vettel,58,1:29:30.259,                         Australia                     ,27 Mar 2011
+1,B,Red Bull Racing Renault,VET,Sebastian,Vettel,56,1:37:39.832,                         Malaysia                     ,10 Apr 2011
+2,C,McLaren Mercedes,HAM,Lewis,Hamilton,56,1:36:58.226,                         China                     ,17 Apr 2011
+3,D,Red Bull Racing Renault,VET,Sebastian,Vettel,58,1:30:17.558,                         Turkey                     ,08 May 2011
+4,E,Red Bull Racing Renault,VET,Sebastian,Vettel,66,1:39:03.301,                         Spain                     ,22 May 2011
+5,F,Red Bull Racing Renault,VET,Sebastian,Vettel,78,2:09:38.373,                         Monaco                     ,29 May 2011
+6,G,McLaren Mercedes,BUT,Jenson,Button,70,4:04:39.537,                         Canada                     ,12 Jun 2011
+7,H,Red Bull Racing Renault,VET,Sebastian,Vettel,57,1:39:36.169,                         Europe                     ,26 Jun 2011
+8,J,Ferrari,ALO,Fernando,Alonso,52,1:28:41.196,                         Great Britain                     ,10 Jul 2011
+9,K,McLaren Mercedes,HAM,Lewis,Hamilton,60,1:37:30.334,                         Germany                     ,24 Jul 2011
+10,L,McLaren Mercedes,BUT,Jenson,Button,70,1:46:42.337,                         Hungary                     ,31 Jul 2011
+11,I,Red Bull Racing Renault,VET,Sebastian,Vettel,44,1:26:44.893,                         Belgium                     ,28 Aug 2011
+12,M,Red Bull Racing Renault,VET,Sebastian,Vettel,53,1:20:46.172,                         Italy                     ,11 Sep 2011
+13,P,Red Bull Racing Renault,VET,Sebastian,Vettel,61,1:59:06.757,                         Singapore                     ,25 Sep 2011
+14,R,McLaren Mercedes,BUT,Jenson,Button,53,1:30:53.427,                         Japan                     ,09 Oct 2011
+15,S,Red Bull Racing Renault,VET,Sebastian,Vettel,55,1:38:01.994,                         South Korea                     ,16 Oct 2011
+16,V,Red Bull Racing Renault,VET,Sebastian,Vettel,60,1:30:35.002,                         India                     ,30 Oct 2011
+17,X,McLaren Mercedes,HAM,Lewis,Hamilton,55,1:37:11.886,                         Abu Dhabi                     ,13 Nov 2011
+18,Q,Red Bull Racing Renault,WEB,Mark,Webber,71,1:32:17.464,                         Brazil                     ,27 Nov 2011
+0,A,McLaren Mercedes,BUT,Jenson,Button,58,1:34:09.565,                         Australia                     ,18 Mar 2012
+1,B,Ferrari,ALO,Fernando,Alonso,56,2:44:51.812,                         Malaysia                     ,25 Mar 2012
+2,C,Mercedes,ROS,Nico,Rosberg,56,1:36:26.929,                         China                     ,15 Apr 2012
+3,D,Red Bull Racing Renault,VET,Sebastian,Vettel,57,1:35:10.990,                         Bahrain                     ,22 Apr 2012
+4,E,Williams Renault,MAL,Pastor,Maldonado,66,1:39:09.145,                         Spain                     ,13 May 2012
+5,F,Red Bull Racing Renault,WEB,Mark,Webber,78,1:46:06.557,                         Monaco                     ,27 May 2012
+6,G,McLaren Mercedes,HAM,Lewis,Hamilton,70,1:32:29.586,                         Canada                     ,10 Jun 2012
+7,H,Ferrari,ALO,Fernando,Alonso,57,1:44:16.649,                         Europe                     ,24 Jun 2012
+8,J,Red Bull Racing Renault,WEB,Mark,Webber,52,1:25:11.288,                         Great Britain                     ,08 Jul 2012
+9,K,Ferrari,ALO,Fernando,Alonso,67,1:31:05.862,                         Germany                     ,22 Jul 2012
+10,L,McLaren Mercedes,HAM,Lewis,Hamilton,69,1:41:05.503,                         Hungary                     ,29 Jul 2012
+11,I,McLaren Mercedes,BUT,Jenson,Button,44,1:29:08.530,                         Belgium                     ,02 Sep 2012
+12,M,McLaren Mercedes,HAM,Lewis,Hamilton,53,1:19:41.221,                         Italy                     ,09 Sep 2012
+13,P,Red Bull Racing Renault,VET,Sebastian,Vettel,59,2:00:26.144,                         Singapore                     ,23 Sep 2012
+14,R,Red Bull Racing Renault,VET,Sebastian,Vettel,53,1:28:56.242,                         Japan                     ,07 Oct 2012
+15,S,Red Bull Racing Renault,VET,Sebastian,Vettel,55,1:36:28.651,                         South Korea                     ,14 Oct 2012
+16,V,Red Bull Racing Renault,VET,Sebastian,Vettel,60,1:31:10.744,                         India                     ,28 Oct 2012
+17,X,Lotus Renault,RAI,Kimi,Räikkönen,55,1:45:58.667,                         Abu Dhabi                     ,04 Nov 2012
+18,Q,McLaren Mercedes,HAM,Lewis,Hamilton,56,1:35:55.269,                         United States                       ,18 Nov 2012
+19,Z,McLaren Mercedes,BUT,Jenson,Button,71,1:45:22.656,                         Brazil                     ,25 Nov 2012
+0,A,Lotus Renault,RAI,Kimi,Räikkönen,58,1:30:03.225,                         Australia                     ,17 Mar 2013
+1,B,Red Bull Racing Renault,VET,Sebastian,Vettel,56,1:38:56.681,                         Malaysia                     ,24 Mar 2013
+2,C,Ferrari,ALO,Fernando,Alonso,56,1:36:26.945,                         China                     ,14 Apr 2013
+3,D,Red Bull Racing Renault,VET,Sebastian,Vettel,57,1:36:00.498,                         Bahrain                     ,21 Apr 2013
+4,E,Ferrari,ALO,Fernando,Alonso,66,1:39:16.596,                         Spain                     ,12 May 2013
+5,F,Mercedes,ROS,Nico,Rosberg,78,2:17:52.056,                         Monaco                     ,26 May 2013
+6,G,Red Bull Racing Renault,VET,Sebastian,Vettel,70,1:32:09.143,                         Canada                     ,09 Jun 2013
+7,H,Mercedes,ROS,Nico,Rosberg,52,1:32:59.456,                         Great Britain                     ,30 Jun 2013
+8,J,Red Bull Racing Renault,VET,Sebastian,Vettel,60,1:41:14.711,                         Germany                     ,07 Jul 2013
+9,K,Mercedes,HAM,Lewis,Hamilton,70,1:42:29.445,                         Hungary                     ,28 Jul 2013
+10,L,Red Bull Racing Renault,VET,Sebastian,Vettel,44,1:23:42.196,                         Belgium                     ,25 Aug 2013
+11,I,Red Bull Racing Renault,VET,Sebastian,Vettel,53,1:18:33.352,                         Italy                     ,08 Sep 2013
+12,M,Red Bull Racing Renault,VET,Sebastian,Vettel,61,1:59:13.132,                         Singapore                     ,22 Sep 2013
+13,P,Red Bull Racing Renault,VET,Sebastian,Vettel,55,1:43:13.701,                         South Korea                     ,06 Oct 2013
+14,R,Red Bull Racing Renault,VET,Sebastian,Vettel,53,1:26:49.301,                         Japan                     ,13 Oct 2013
+15,S,Red Bull Racing Renault,VET,Sebastian,Vettel,60,1:31:12.187,                         India                     ,27 Oct 2013
+16,V,Red Bull Racing Renault,VET,Sebastian,Vettel,55,1:38:06.106,                         Abu Dhabi                     ,03 Nov 2013
+17,X,Red Bull Racing Renault,VET,Sebastian,Vettel,56,1:39:17.148,                         United States                      ,17 Nov 2013
+18,Q,Red Bull Racing Renault,VET,Sebastian,Vettel,71,1:32:36.300,                         Brazil                     ,24 Nov 2013
+0,A,Mercedes,ROS,Nico,Rosberg,57,1:32:58.710,                         Australia                     ,16 Mar 2014
+1,B,Mercedes,HAM,Lewis,Hamilton,56,1:40:25.974,                         Malaysia                     ,30 Mar 2014
+2,C,Mercedes,HAM,Lewis,Hamilton,57,1:39:42.743,                         Bahrain                     ,06 Apr 2014
+3,D,Mercedes,HAM,Lewis,Hamilton,54,1:33:28.338,                         China                     ,20 Apr 2014
+4,E,Mercedes,HAM,Lewis,Hamilton,66,1:41:05.155,                         Spain                     ,11 May 2014
+5,F,Mercedes,ROS,Nico,Rosberg,78,1:49:27.661,                         Monaco                     ,25 May 2014
+6,G,Red Bull Racing Renault,RIC,Daniel,Ricciardo,70,1:39:12.830,                         Canada                     ,08 Jun 2014
+7,H,Mercedes,ROS,Nico,Rosberg,71,1:27:54.976,                         Austria                     ,22 Jun 2014
+8,J,Mercedes,HAM,Lewis,Hamilton,52,2:26:52.094,                         Great Britain                     ,06 Jul 2014
+9,K,Mercedes,ROS,Nico,Rosberg,67,1:33:42.914,                         Germany                     ,20 Jul 2014
+10,L,Red Bull Racing Renault,RIC,Daniel,Ricciardo,70,1:53:05.058,                         Hungary                     ,27 Jul 2014
+11,I,Red Bull Racing Renault,RIC,Daniel,Ricciardo,44,1:24:36.556,                         Belgium                     ,24 Aug 2014
+12,M,Mercedes,HAM,Lewis,Hamilton,53,1:19:10.236,                         Italy                     ,07 Sep 2014
+13,P,Mercedes,HAM,Lewis,Hamilton,60,2:00:04.795,                         Singapore                     ,21 Sep 2014
+14,R,Mercedes,HAM,Lewis,Hamilton,44,1:51:43.021,                         Japan                     ,05 Oct 2014
+15,S,Mercedes,HAM,Lewis,Hamilton,53,1:31:50.744,                         Russia                     ,21 Oct 2014
+16,V,Mercedes,HAM,Lewis,Hamilton,56,1:40:04.785,                         United States                      ,02 Nov 2014
+17,X,Mercedes,ROS,Nico,Rosberg,71,1:30:02.555,                         Brazil                     ,09 Nov 2014
+18,Q,Mercedes,HAM,Lewis,Hamilton,55,1:39:02.619,                         Abu Dhabi                     ,23 Nov 2014
+0,A,Mercedes,HAM,Lewis,Hamilton,58,1:31:54.067,                         Australia                     ,15 Mar 2015
+1,B,Ferrari,VET,Sebastian,Vettel,56,1:41:05.793,                         Malaysia                     ,29 Mar 2015
+2,C,Mercedes,HAM,Lewis,Hamilton,56,1:39:42.008,                         China                     ,12 Apr 2015
+3,D,Mercedes,HAM,Lewis,Hamilton,57,1:35:05.809,                         Bahrain                     ,19 Apr 2015
+4,E,Mercedes,ROS,Nico,Rosberg,66,1:41:12.555,                         Spain                     ,10 May 2015
+5,F,Mercedes,ROS,Nico,Rosberg,78,1:49:18.420,                         Monaco                     ,24 May 2015
+6,G,Mercedes,HAM,Lewis,Hamilton,70,1:31:53.145,                         Canada                     ,07 Jun 2015
+7,H,Mercedes,ROS,Nico,Rosberg,71,1:30:16.930,                         Austria                     ,21 Jun 2015
+8,J,Mercedes,HAM,Lewis,Hamilton,52,1:31:27.729,                         Great Britain                     ,05 Jul 2015
+9,K,Ferrari,VET,Sebastian,Vettel,69,1:46:09.985,                         Hungary                     ,26 Jul 2015
+10,L,Mercedes,HAM,Lewis,Hamilton,43,1:23:40.387,                         Belgium                     ,23 Aug 2015
+11,I,Mercedes,HAM,Lewis,Hamilton,53,1:18:00.688,                         Italy                     ,06 Sep 2015
+12,M,Ferrari,VET,Sebastian,Vettel,61,2:01:22.118,                         Singapore                     ,20 Sep 2015
+13,P,Mercedes,HAM,Lewis,Hamilton,53,1:28:06.508,                         Japan                     ,27 Sep 2015
+14,R,Mercedes,HAM,Lewis,Hamilton,53,1:37:11.024,                         Russia                     ,11 Oct 2015
+15,S,Mercedes,HAM,Lewis,Hamilton,56,1:50:52.703,                         United States                      ,25 Oct 2015
+16,V,Mercedes,ROS,Nico,Rosberg,71,1:42:35.038,                         Mexico                     ,01 Nov 2015
+17,X,Mercedes,ROS,Nico,Rosberg,71,1:31:09.090,                         Brazil                     ,15 Nov 2015
+18,Q,Mercedes,ROS,Nico,Rosberg,55,1:38:30.175,                         Abu Dhabi                     ,29 Nov 2015
+0,A,Mercedes,ROS,Nico,Rosberg,57,1:48:15.565,                         Australia                     ,20 Mar 2016
+1,B,Mercedes,ROS,Nico,Rosberg,57,1:33:34.696,                         Bahrain                     ,03 Apr 2016
+2,C,Mercedes,ROS,Nico,Rosberg,56,1:38:53.891,                         China                     ,17 Apr 2016
+3,D,Mercedes,ROS,Nico,Rosberg,53,1:32:41.997,                         Russia                     ,01 May 2016
+4,E,Red Bull Racing TAG Heuer,VES,Max,Verstappen,66,1:41:40.017,                         Spain                     ,15 May 2016
+5,F,Mercedes,HAM,Lewis,Hamilton,78,1:59:29.133,                         Monaco                     ,29 May 2016
+6,G,Mercedes,HAM,Lewis,Hamilton,70,1:31:05.296,                         Canada                     ,12 Jun 2016
+7,H,Mercedes,ROS,Nico,Rosberg,51,1:32:52.366,                         Europe                     ,19 Jun 2016
+8,J,Mercedes,HAM,Lewis,Hamilton,71,1:27:38.107,                         Austria                     ,03 Jul 2016
+9,K,Mercedes,HAM,Lewis,Hamilton,52,1:34:55.831,                         Great Britain                     ,10 Jul 2016
+10,L,Mercedes,HAM,Lewis,Hamilton,70,1:40:30.115,                         Hungary                     ,24 Jul 2016
+11,I,Mercedes,HAM,Lewis,Hamilton,67,1:30:44.200,                         Germany                     ,31 Jul 2016
+12,M,Mercedes,ROS,Nico,Rosberg,44,1:44:51.058,                         Belgium                     ,28 Aug 2016
+13,P,Mercedes,ROS,Nico,Rosberg,53,1:17:28.089,                         Italy                     ,04 Sep 2016
+14,R,Mercedes,ROS,Nico,Rosberg,61,1:55:48.950,                         Singapore                     ,18 Sep 2016
+15,S,Red Bull Racing TAG Heuer,RIC,Daniel,Ricciardo,56,1:37:12.776,                         Malaysia                     ,02 Oct 2016
+16,V,Mercedes,ROS,Nico,Rosberg,53,1:26:43.333,                         Japan                     ,09 Oct 2016
+17,X,Mercedes,HAM,Lewis,Hamilton,56,1:38:12.618,                         United States                      ,23 Oct 2016
+18,Q,Mercedes,HAM,Lewis,Hamilton,71,1:40:31.402,                         Mexico                     ,30 Oct 2016
+19,Y,Mercedes,HAM,Lewis,Hamilton,71,3:01:01.335,                         Brazil                     ,13 Nov 2016
+20,Z,Mercedes,HAM,Lewis,Hamilton,55,1:38:04.013,                         Abu Dhabi                     ,27 Nov 2016
+0,A,Ferrari,VET,Sebastian,Vettel,57,1:24:11.672,                         Australia                     ,26 Mar 2017
+1,B,Mercedes,HAM,Lewis,Hamilton,56,1:37:36.158,                         China                     ,09 Apr 2017
+2,C,Ferrari,VET,Sebastian,Vettel,57,1:33:53.374,                         Bahrain                     ,16 Apr 2017
+3,D,Mercedes,BOT,Valtteri ,Bottas,52,1:28:08.743,                         Russia                     ,30 Apr 2017
+4,E,Mercedes,HAM,Lewis,Hamilton,66,1:35:56.497,                         Spain                     ,14 May 2017
+5,F,Ferrari,VET,Sebastian,Vettel,78,1:44:44.340,                         Monaco                     ,28 May 2017
+6,G,Mercedes,HAM,Lewis,Hamilton,70,1:33:05.154,                         Canada                     ,11 Jun 2017
+7,H,Red Bull Racing TAG Heuer,RIC,Daniel,Ricciardo,51,2:03:55.573,                         Azerbaijan                     ,25 Jun 2017
+8,J,Mercedes,BOT,Valtteri ,Bottas,71,1:21:48.523,                         Austria                     ,09 Jul 2017
+9,K,Mercedes,HAM,Lewis,Hamilton,51,1:21:27.430,                         Great Britain                     ,16 Jul 2017
+10,L,Ferrari,VET,Sebastian,Vettel,70,1:39:46.713,                         Hungary                     ,30 Jul 2017
+11,I,Mercedes,HAM,Lewis,Hamilton,44,1:24:42.820,                         Belgium                     ,27 Aug 2017
+12,M,Mercedes,HAM,Lewis,Hamilton,53,1:15:32.312,                         Italy                     ,03 Sep 2017
+13,P,Mercedes,HAM,Lewis,Hamilton,58,2:03:23.544,                         Singapore                     ,17 Sep 2017
+14,R,Red Bull Racing TAG Heuer,VER,Max,Verstappen,56,1:30:01.290,                         Malaysia                     ,01 Oct 2017
+15,S,Mercedes,HAM,Lewis,Hamilton,53,1:27:31.194,                         Japan                     ,08 Oct 2017
+16,V,Mercedes,HAM,Lewis,Hamilton,56,1:33:50.991,                         United States                      ,22 Oct 2017
+17,X,Red Bull Racing TAG Heuer,VER,Max,Verstappen,71,1:36:26.552,                         Mexico                     ,29 Oct 2017
+18,Q,Ferrari,VET,Sebastian,Vettel,71,1:31:26.262,                         Brazil                     ,12 Nov 2017
+19,Y,Mercedes,BOT,Valtteri ,Bottas,55,1:34:14.062,                         Abu Dhabi                     ,26 Nov 2017
+0,A,Ferrari,VET,Sebastian,Vettel,58,1:29:33.283,                         Australia                     ,25 Mar 2018
+1,B,Ferrari,VET,Sebastian,Vettel,57,1:32:01.940,                         Bahrain                     ,08 Apr 2018
+2,C,Red Bull Racing TAG Heuer,RIC,Daniel,Ricciardo,56,1:35:36.380,                         China                     ,15 Apr 2018
+3,D,Mercedes,HAM,Lewis,Hamilton,51,1:43:44.291,                         Azerbaijan                     ,29 Apr 2018
+4,E,Mercedes,HAM,Lewis,Hamilton,66,1:35:29.972,                         Spain                     ,13 May 2018
+5,F,Red Bull Racing TAG Heuer,RIC,Daniel,Ricciardo,78,1:42:54.807,                         Monaco                     ,27 May 2018
+6,G,Ferrari,VET,Sebastian,Vettel,68,1:28:31.377,                         Canada                     ,10 Jun 2018
+7,H,Mercedes,HAM,Lewis,Hamilton,53,1:30:11.385,                         France                     ,24 Jun 2018
+8,J,Red Bull Racing TAG Heuer,VER,Max,Verstappen,71,1:21:56.024,                         Austria                     ,01 Jul 2018
+9,K,Ferrari,VET,Sebastian,Vettel,52,1:27:29.784,                         Great Britain                     ,08 Jul 2018
+10,L,Mercedes,HAM,Lewis,Hamilton,67,1:32:29.845,                         Germany                     ,22 Jul 2018
+11,I,Mercedes,HAM,Lewis,Hamilton,70,1:37:16.427,                         Hungary                     ,29 Jul 2018
+12,M,Ferrari,VET,Sebastian,Vettel,44,1:23:34.476,                         Belgium                     ,26 Aug 2018
+13,P,Mercedes,HAM,Lewis,Hamilton,53,1:16:54.484,                         Italy                     ,02 Sep 2018
+14,R,Mercedes,HAM,Lewis,Hamilton,61,1:51:11.611,                         Singapore                     ,16 Sep 2018
+15,S,Mercedes,HAM,Lewis,Hamilton,53,1:27:25.181,                         Russia                     ,30 Sep 2018
+16,V,Mercedes,HAM,Lewis,Hamilton,53,1:27:17.062,                         Japan                     ,07 Oct 2018
+17,X,Ferrari,RAI,Kimi,Räikkönen,56,1:34:18.643,                         United States                      ,21 Oct 2018
+18,Q,Red Bull Racing TAG Heuer,VER,Max,Verstappen,71,1:38:28.851,                         Mexico                     ,28 Oct 2018
+19,Y,Mercedes,HAM,Lewis,Hamilton,71,1:27:09.066,                         Brazil                     ,11 Nov 2018
+20,Z,Mercedes,HAM,Lewis,Hamilton,55,1:39:40.382,                         Abu Dhabi                     ,25 Nov 2018
+0,A,Mercedes,BOT,Valtteri,Bottas,58,1:25:27.325,                         Australia                     ,17 Mar 2019
+1,B,Mercedes,HAM,Lewis,Hamilton,57,1:34:21.295,                         Bahrain                     ,31 Mar 2019
+2,C,Mercedes,HAM,Lewis,Hamilton,56,1:32:06.350,                         China                     ,14 Apr 2019
+3,D,Mercedes,BOT,Valtteri,Bottas,51,1:31:52.942,                         Azerbaijan                     ,28 Apr 2019
+4,E,Mercedes,HAM,Lewis,Hamilton,66,1:35:50.443,                         Spain                     ,12 May 2019
+5,F,Mercedes,HAM,Lewis,Hamilton,78,1:43:28.437,                         Monaco                     ,26 May 2019
+6,G,Mercedes,HAM,Lewis,Hamilton,70,1:29:07.084,                         Canada                     ,09 Jun 2019
+7,H,Mercedes,HAM,Lewis,Hamilton,53,1:24:31.198,                         France                     ,23 Jun 2019
+8,J,Red Bull Racing Honda,VER,Max,Verstappen,71,1:22:01.822,                         Austria                     ,30 Jun 2019
+9,K,Mercedes,HAM,Lewis,Hamilton,52,1:21:08.452,                         Great Britain                     ,14 Jul 2019
+10,L,Red Bull Racing Honda,VER,Max,Verstappen,64,1:44:31.275,                         Germany                     ,28 Jul 2019
+11,I,Mercedes,HAM,Lewis,Hamilton,70,1:35:03.796,                         Hungary                     ,04 Aug 2019
+12,M,Ferrari,LEC,Charles,Leclerc,44,1:23:45.710,                         Belgium                     ,01 Sep 2019
+13,P,Ferrari,LEC,Charles,Leclerc,53,1:15:26.665,                         Italy                     ,08 Sep 2019
+14,R,Ferrari,VET,Sebastian,Vettel,61,1:58:33.667,                         Singapore                     ,22 Sep 2019
+15,S,Mercedes,HAM,Lewis,Hamilton,53,1:33:38.992,                         Russia                     ,29 Sep 2019
+16,V,Mercedes,BOT,Valtteri,Bottas,52,1:21:46.755,                         Japan                     ,13 Oct 2019
+17,X,Mercedes,HAM,Lewis,Hamilton,71,1:36:48.904,                         Mexico                     ,27 Oct 2019
+18,Q,Mercedes,BOT,Valtteri,Bottas,56,1:33:55.653,                         United States                      ,03 Nov 2019
+19,Y,Red Bull Racing Honda,VER,Max,Verstappen,71,1:33:14.678,                         Brazil                     ,17 Nov 2019
+20,Z,Mercedes,HAM,Lewis,Hamilton,55,1:34:05.715,                         Abu Dhabi                     ,01 Dec 2019
+0,A,Mercedes,BOT,Valtteri,Bottas,71,1:30:55.739,                         Austria                     ,05 Jul 2020
+1,B,Mercedes,HAM,Lewis,Hamilton,71,1:22:50.683,                         Styria                     ,12 Jul 2020
+2,C,Mercedes,HAM,Lewis,Hamilton,70,1:36:12.473,                         Hungary                     ,19 Jul 2020
+3,D,Mercedes,HAM,Lewis,Hamilton,52,1:28:01.283,                         Great Britain                     ,02 Aug 2020
+4,E,Red Bull Racing Honda,VER,Max,Verstappen,52,1:19:41.993,                         70th Anniversary                     ,09 Aug 2020
+5,F,Mercedes,HAM,Lewis,Hamilton,66,1:31:45.279,                         Spain                     ,16 Aug 2020
+6,G,Mercedes,HAM,Lewis,Hamilton,44,1:24:08.761,                         Belgium                     ,30 Aug 2020
+7,H,AlphaTauri Honda,GAS,Pierre,Gasly,53,1:47:06.056,                         Italy                     ,06 Sep 2020
+8,J,Mercedes,HAM,Lewis,Hamilton,59,2:19:35.060,                         Tuscany                     ,13 Sep 2020
+9,K,Mercedes,BOT,Valtteri,Bottas,53,1:34:00.364,                         Russia                     ,27 Sep 2020
+10,L,Mercedes,HAM,Lewis,Hamilton,60,1:35:49.641,                         Eifel                     ,11 Oct 2020
+11,I,Mercedes,HAM,Lewis,Hamilton,66,1:29:56.828,                         Portugal                     ,25 Oct 2020
+12,M,Mercedes,HAM,Lewis,Hamilton,63,1:28:32.430,                         Emilia Romagna                     ,01 Nov 2020
+13,P,Mercedes,HAM,Lewis,Hamilton,58,1:42:19.313,                         Turkey                     ,15 Nov 2020
+14,R,Mercedes,HAM,Lewis,Hamilton,57,2:59:47.515,                         Bahrain                     ,29 Nov 2020
+15,S,Racing Point BWT Mercedes,PER,Sergio,Perez,87,1:31:15.114,                         Sakhir                     ,06 Dec 2020
+16,V,Red Bull Racing Honda,VER,Max,Verstappen,55,1:36:28.645,                         Abu Dhabi                     ,13 Dec 2020
+0,,Mercedes,HAM,Lewis,Hamilton,56,1:32:03.897,"
+                        Bahrain
+                    ",28 Mar 2021
+1,,Red Bull Racing Honda,VER,Max,Verstappen,63,2:02:34.598,"
+                        Emilia Romagna
+                    ",18 Apr 2021
+2,,Mercedes,HAM,Lewis,Hamilton,66,1:34:31.421,"
+                        Portugal
+                    ",02 May 2021
+3,,Mercedes,HAM,Lewis,Hamilton,66,1:33:07.680,"
+                        Spain
+                    ",09 May 2021
+4,,Red Bull Racing Honda,VER,Max,Verstappen,78,1:38:56.820,"
+                        Monaco
+                    ",23 May 2021
+5,,Red Bull Racing Honda,PER,Sergio,Perez,51,2:13:36.410,"
+                        Azerbaijan
+                    ",06 Jun 2021
+6,,Red Bull Racing Honda,VER,Max,Verstappen,53,1:27:25.770,"
+                        France
+                    ",20 Jun 2021
+7,,Red Bull Racing Honda,VER,Max,Verstappen,71,1:22:18.925,"
+                        Styria
+                    ",27 Jun 2021
+8,,Red Bull Racing Honda,VER,Max,Verstappen,71,1:23:54.543,"
+                        Austria
+                    ",04 Jul 2021
+9,,Mercedes,HAM,Lewis,Hamilton,52,1:58:23.284,"
+                        Great Britain
+                    ",18 Jul 2021
+10,,Alpine Renault,OCO,Esteban,Ocon,70,2:04:43.199,"
+                        Hungary
+                    ",01 Aug 2021
+11,,Red Bull Racing Honda,VER,Max,Verstappen,1,0:03:27.071,"
+                        Belgium
+                    ",29 Aug 2021
+12,,Red Bull Racing Honda,VER,Max,Verstappen,72,1:30:05.395,"
+                        Netherlands
+                    ",05 Sep 2021
+13,,McLaren Mercedes,RIC,Daniel,Ricciardo,53,1:21:54.365,"
+                        Italy
+                    ",12 Sep 2021
+14,,Mercedes,HAM,Lewis,Hamilton,53,1:30:41.001,"
+                        Russia
+                    ",26 Sep 2021
+15,,Mercedes,BOT,Valtteri,Bottas,58,1:31:04.103,"
+                        Turkey
+                    ",10 Oct 2021
+16,,Red Bull Racing Honda,VER,Max,Verstappen,56,1:34:36.552,"
+                        United States 
+                    ",24 Oct 2021
+17,,Red Bull Racing Honda,VER,Max,Verstappen,71,1:38:39.086,"
+                        Mexico
+                    ",07 Nov 2021
+18,,Mercedes,HAM,Lewis,Hamilton,71,1:32:22.851,"
+                        Brazil
+                    ",14 Nov 2021
+19,,Mercedes,HAM,Lewis,Hamilton,57,1:24:28.471,"
+                        Qatar
+                    ",21 Nov 2021
+20,,Mercedes,HAM,Lewis,Hamilton,50,2:06:15.118,"
+                        Saudi Arabia
+                    ",05 Dec 2021
+21,,Red Bull Racing Honda,VER,Max,Verstappen,58,1:30:17.345,"
+                        Abu Dhabi
+                    ",12 Dec 2021
